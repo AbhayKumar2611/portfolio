@@ -80,7 +80,7 @@ import { faLinkedin, faGithub } from "@fortawesome/free-brands-svg-icons";
 
 const Home = () => {
   const resumeDownloadLink =
-    "https://drive.google.com/uc?export=download&id=1YVrD1tPbf57u61yIycUBPIg1wxVdg0hq";
+    "https://drive.google.com/uc?export=download&id=1Icw8kYOtMosmio9WZ66Au-1qTEvcoehd";
 
   return (
     <section

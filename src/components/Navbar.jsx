@@ -130,7 +130,7 @@ const Navbar = () => {
   const [activeSection, setActiveSection] = useState("");
 
   const resumeLink =
-    "https://drive.google.com/uc?export=download&id=1YVrD1tPbf57u61yIycUBPIg1wxVdg0hq"; // Replace with your actual Google Drive File ID
+    "https://drive.google.com/uc?export=download&id=1Icw8kYOtMosmio9WZ66Au-1qTEvcoehd"; // Replace with your actual Google Drive File ID
 
   const toggleMenu = () => {
     setIsOpen(!isOpen);
