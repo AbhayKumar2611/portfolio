@@ -92,7 +92,7 @@ const Home = () => {
         <img
           src={profileImage}
           alt="Abhay Kumar"
-          className="w-40 h-40 md:w-80 md:h-80 rounded-full shadow-lg object-cover"
+          className="w-44 h-44 md:w-96 md:h-96 rounded-full shadow-lg object-top"
         />
       </div>
 
